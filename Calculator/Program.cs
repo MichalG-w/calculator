@@ -16,6 +16,7 @@ namespace Calculator
             Console.WriteLine("1. Dodawanie");
             Console.WriteLine("2. Odejmowanie");
             Console.WriteLine("3. Wyjscie");
+            Console.WriteLine("4. Mnożenie");
             int a = int.Parse(Console.ReadLine());
             if(a == 3)
             {
