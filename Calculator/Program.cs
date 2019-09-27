@@ -24,6 +24,7 @@ namespace Calculator
             if(a == 3)
             {
                 Console.WriteLine("wyjscie");
+                Console.ReadKey();
             }
                 
             
