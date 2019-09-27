@@ -18,6 +18,7 @@ namespace Calculator
             Console.WriteLine("3. Wyjscie");
             Console.WriteLine("4. Mnożenie");
             Console.WriteLine("5. Dzielenie");
+            Console.WriteLine("6. Potęgowanie");
             int a = int.Parse(Console.ReadLine());
             if(a == 3)
             {
